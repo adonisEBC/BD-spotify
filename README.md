@@ -1,5 +1,5 @@
 # BD-spotify
-creación base de datos en mysql
+
 CREATE TABLE `albunes` (
   `id` int(11) NOT NULL,
   `id_album` int(11) NOT NULL,
